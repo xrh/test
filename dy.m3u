@@ -1,28 +1,28 @@
 #EXTM3U
-#EXTINF:-1,  group-title="电影", 超甜小野猫- 20221018 
-http://akm-tct.douyucdn.cn/lived/6566671rF26QDpD5.flv?uuid=
-#EXTINF:-1,  group-title="电影", 粤语电影 - 20221018 
-http://akm-tct.douyucdn.cn/lived/1226741rLnxXicV2.flv?uuid=
-#EXTINF:-1,  group-title="电影", 小粤兒- 20221018 
+#EXTINF:-1,  group-title="电影", 超甜小野猫- 20221024 
+http://akm-tct.douyucdn.cn/lived/6566671r17693SDr.flv?uuid=
+#EXTINF:-1,  group-title="电影", 粤语电影 - 20221024 
+http://akm-tct.douyucdn.cn/lived/1226741rLnHm143s.flv?uuid=
+#EXTINF:-1,  group-title="电影", 小粤兒- 20221024 
 http://akm-tct.douyucdn.cn/lived/5033502rNOtYDGbW.flv?uuid=
-#EXTINF:-1,  group-title="电影", ChenaJ - 20221018 
-http://akm-tct.douyucdn.cn/lived/2466104rY2IL3clT.flv?uuid=
+#EXTINF:-1,  group-title="电影", ChenaJ - Not open 
+http://akm-tct.douyucdn.cn/lived/4444444444444444.flv?uuid=
 #EXTINF:-1,  group-title="电影", 大叔没有假期- Not open 
 http://akm-tct.douyucdn.cn/lived/4444444444444444.flv?uuid=
-#EXTINF:-1,  group-title="电影", 小丑女靚爆鏡- 20221018 
+#EXTINF:-1,  group-title="电影", 小丑女靚爆鏡- 20221024 
 http://akm-tct.douyucdn.cn/lived/8603174r8CljZXMX.flv?uuid=
 #EXTINF:-1,  group-title="电影", 和连胜 星爷来了- Not open 
 http://akm-tct.douyucdn.cn/lived/4444444444444444.flv?uuid=
-#EXTINF:-1,  group-title="电视剧", 花伦芷- Not open 
-http://akm-tct.douyucdn.cn/lived/4444444444444444.flv?uuid=
+#EXTINF:-1,  group-title="电视剧", 花伦芷- 20221024 
+http://akm-tct.douyucdn.cn/lived/9701481rTvk61RJ6.flv?uuid=
 #EXTINF:-1,  group-title="电视剧", 电视BB- Not open 
 http://akm-tct.douyucdn.cn/lived/4444444444444444.flv?uuid=
-#EXTINF:-1,  group-title="电视剧", 豆腐芭比- Not open 
-http://akm-tct.douyucdn.cn/lived/4444444444444444.flv?uuid=
-#EXTINF:-1,  group-title="电视剧", 丶丶丶九月丶丶丶- 20221018 
+#EXTINF:-1,  group-title="电视剧", 豆腐芭比- 20221024 
+http://akm-tct.douyucdn.cn/lived/6478650roFCoD8y9.flv?uuid=
+#EXTINF:-1,  group-title="电视剧", 丶丶丶九月丶丶丶- 20221024 
 http://akm-tct.douyucdn.cn/lived/10338873rKiJyAFG.flv?uuid=
-#EXTINF:-1,  group-title="综艺", 昆特牌之大哥食正野- 20221018 
-http://akm-tct.douyucdn.cn/lived/7919720r9fEFYTHy.flv?uuid=
+#EXTINF:-1,  group-title="综艺", 昆特牌之大哥食正野- 20221024 
+http://akm-tct.douyucdn.cn/lived/7919720rRUQGIIyW.flv?uuid=
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="United States",NBC 8 Portland OR (KGW) (1080p)
 https://livevideo01.kgw.com/hls/live/2015506/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="KATUDT1.us" tvg-country="US-OR" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="United States",ABC Portland OR (KATU-DT1) (720p)
