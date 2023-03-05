@@ -1,80 +1,80 @@
 #EXTM3U
-#EXTINF:-1,  group-title="Movies", 吖源同是世俗人- 20230305-06:00 
-https://d1--ov-gotcha105.bilivideo.com/live-bvc/365724/live_474877797_63811292.m3u8?expires=1678028464&len=0&oi=842345035&pt=h5&qn=10000&trid=10039448f405670f4698bcd6b372c014ffde&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=ov-gotcha105&sign=523cd406100f34ff81ea7127a6802df6&sk=9f91530c840c4772d1b03c74821d7442&p2p_type=0&src=57345&sl=1&free_type=0&mid=0&pp=rtmp&machinezone=jd&source=onetier&trace=0&site=ce318293d3e880ecc4918d93cadd5d94&order=1
-#EXTINF:-1,  group-title="Dramas", 嗯普通市民- 20230305-06:00 
-https://d1--ov-gotcha105.bilivideo.com/live-bvc/212546/live_487583029_21155323.m3u8?expires=1678028465&len=0&oi=842345035&pt=h5&qn=10000&trid=10030cfdb542678045a2afab886afa365a88&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=ov-gotcha105&sign=d01017803a7c6e868959f3b1cb5cc1a2&sk=5709a91e407a8b9ff6a3f6c217017cc6&p2p_type=0&src=57345&sl=1&free_type=0&mid=0&pp=rtmp&machinezone=ylf&source=onetier&trace=0&site=d3e3a53bac963d2c20d0e773bb819679&order=1
-#EXTINF:-1,  group-title="Dramas", 广东珠海飞飞粤语2014- 20230305-06:00 
-https://d1--ov-gotcha105.bilivideo.com/live-bvc/981019/live_4394907_2985322.m3u8?expires=1678028466&len=0&oi=842345035&pt=h5&qn=10000&trid=1003fd8a06a2a8b14af8a21b32413de67fbc&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=ov-gotcha105&sign=8c296abad30be7e202d70a611c5d19da&sk=e3c4c8d1bf0a54cb2493922f8dddcf26&p2p_type=0&src=57345&sl=1&free_type=0&mid=0&pp=rtmp&machinezone=jd&source=onetier&trace=0&site=99f43253768106c78c26fe9f50c75566&order=1
+#EXTINF:-1,  group-title="Movies", 吖源同是世俗人- 20230305-12:38 
+https://d1--ov-gotcha105.bilivideo.com/live-bvc/152393/live_474877797_63811292.m3u8?expires=1678052390&len=0&oi=842345035&pt=h5&qn=10000&trid=10032df3b22c03494358a42d95a94f21ee2b&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=ov-gotcha105&sign=2eec69e7b2bedc3e7e76ac566617532b&sk=9f91530c840c4772d1b03c74821d7442&p2p_type=0&src=57345&sl=1&free_type=0&mid=0&pp=rtmp&machinezone=ylf&source=onetier&trace=0&site=2c387f396dea435ba59bee0e25de98de&order=1
+#EXTINF:-1,  group-title="Dramas", 嗯普通市民- Not open 
+4444444444444444
+#EXTINF:-1,  group-title="Dramas", 广东珠海飞飞粤语2014- 20230305-12:38 
+https://d1--ov-gotcha105.bilivideo.com/live-bvc/970819/live_4394907_2985322.m3u8?expires=1678052391&len=0&oi=842345035&pt=h5&qn=10000&trid=1003939e8f5633cc43b699e27be1ca91846e&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=ov-gotcha105&sign=e8e2683dacae4ae8c6b53b34ceeb8002&sk=ff504a7598ad34691e5288b7a3a16c99&p2p_type=0&src=57345&sl=1&free_type=0&mid=0&pp=rtmp&machinezone=jd&source=onetier&trace=0&site=f56543df169997fcb21077b31aba9b6d&order=1
 #EXTINF:-1,  group-title="Dramas", LirioJAZMIN- Not open 
 4444444444444444
-#EXTINF:-1,  group-title="Movies", 超甜小野猫- 20230305-06:00 
-http://akm-tct.douyucdn.cn/lived/6566671rC1jnYhfM.flv?uuid=
-#EXTINF:-1,  group-title="Movies", 粤语电影 - 20230305-06:00 
-http://akm-tct.douyucdn.cn/lived/1226741rnlC714B3.flv?uuid=
-#EXTINF:-1,  group-title="Movies", 小粤兒- 20230305-06:00 
-http://akm-tct.douyucdn.cn/lived/5033502r1DnQtDRG.flv?uuid=
+#EXTINF:-1,  group-title="Movies", 超甜小野猫- 20230305-12:38 
+http://hw-tct.douyucdn.cn/lived/6566671rC1jnYhfM.flv?uuid=
+#EXTINF:-1,  group-title="Movies", 粤语电影 - 20230305-12:38 
+http://hw-tct.douyucdn.cn/lived/1226741rnlC714B3.flv?uuid=
+#EXTINF:-1,  group-title="Movies", 小粤兒- 20230305-12:38 
+http://hw-tct.douyucdn.cn/lived/5033502r1DnQtDRG.flv?uuid=
 #EXTINF:-1,  group-title="Movies", ChenaJ - Not open 
-http://akm-tct.douyucdn.cn/lived/4444444444444444.flv?uuid=
-#EXTINF:-1,  group-title="Movies", 大叔没有假期- 20230305-06:00 
-http://akm-tct.douyucdn.cn/lived/6462389ru1dEk8HB.flv?uuid=
+http://hw-tct.douyucdn.cn/lived/4444444444444444.flv?uuid=
+#EXTINF:-1,  group-title="Movies", 大叔没有假期- 20230305-12:38 
+http://hw-tct.douyucdn.cn/lived/6462389ru1dEk8HB.flv?uuid=
 #EXTINF:-1,  group-title="Movies", 小丑女靚爆鏡- Not open 
-http://akm-tct.douyucdn.cn/lived/4444444444444444.flv?uuid=
+http://hw-tct.douyucdn.cn/lived/4444444444444444.flv?uuid=
 #EXTINF:-1,  group-title="Movies", 和连胜 星爷来了- Not open 
-http://akm-tct.douyucdn.cn/lived/4444444444444444.flv?uuid=
-#EXTINF:-1,  group-title="Movies-M", 进击の神乐- 20230305-06:00 
-http://akm-tct.douyucdn.cn/lived/122402rK7MO9bXSq.flv?uuid=
-#EXTINF:-1,  group-title="Movies-M", 周末电影院- 20230305-06:00 
-http://akm-tct.douyucdn.cn/lived/3637726rQLDdfto7.flv?uuid=
-#EXTINF:-1,  group-title="Movies-M", 周末电影院2- 20230305-06:00 
-http://akm-tct.douyucdn.cn/lived/3637765rrt97QwBF.flv?uuid=
+http://hw-tct.douyucdn.cn/lived/4444444444444444.flv?uuid=
+#EXTINF:-1,  group-title="Movies-M", 进击の神乐- 20230305-12:38 
+http://hw-tct.douyucdn.cn/lived/122402rK7MO9bXSq.flv?uuid=
+#EXTINF:-1,  group-title="Movies-M", 周末电影院- 20230305-12:38 
+http://hw-tct.douyucdn.cn/lived/3637726rQLDdfto7.flv?uuid=
+#EXTINF:-1,  group-title="Movies-M", 周末电影院2- 20230305-12:38 
+http://hw-tct.douyucdn.cn/lived/3637765rrt97QwBF.flv?uuid=
 #EXTINF:-1,  group-title="Dramas", 花伦芷- Not open 
-http://akm-tct.douyucdn.cn/lived/4444444444444444.flv?uuid=
+http://hw-tct.douyucdn.cn/lived/4444444444444444.flv?uuid=
 #EXTINF:-1,  group-title="Dramas", 电视BB- Not open 
-http://akm-tct.douyucdn.cn/lived/4444444444444444.flv?uuid=
-#EXTINF:-1,  group-title="Dramas", 豆腐芭比- 20230305-06:00 
-http://akm-tct.douyucdn.cn/lived/6478650rxpYGAk9e.flv?uuid=
-#EXTINF:-1,  group-title="Dramas", 丶丶丶九月丶丶丶- 20230305-06:00 
-http://akm-tct.douyucdn.cn/lived/10338873rntHb9pA.flv?uuid=
-#EXTINF:-1,  group-title="Dramas-M", 疯狂尛瀦瀦- 20230305-06:00 
-http://akm-tct.douyucdn.cn/lived/4290711rTTBqCnSS.flv?uuid=
-#EXTINF:-1,  group-title="Dramas-M", 牛奶味的梦猪猪- 20230305-06:00 
-http://akm-tct.douyucdn.cn/lived/5261342r8mtKOa0S.flv?uuid=
-#EXTINF:-1,  group-title="Dramas-M", 大雾放映厅- 20230305-06:00 
-http://akm-tct.douyucdn.cn/lived/5061550rlbpwm0mK.flv?uuid=
-#EXTINF:-1,  group-title="Dramas-M", 疯狂小潴潴- 20230305-06:00 
-http://akm-tct.douyucdn.cn/lived/5522351rfDRipYot.flv?uuid=
-#EXTINF:-1,  group-title="Dramas-M", 宝姐x- 20230305-06:00 
-http://akm-tct.douyucdn.cn/lived/6581531rZaUNqb6Q.flv?uuid=
-#EXTINF:-1,  group-title="Dramas-M", 飘洋过海来- 20230305-06:00 
-http://akm-tct.douyucdn.cn/lived/9548850rw13p7DVb.flv?uuid=
-#EXTINF:-1,  group-title="Dramas-M", 橙記Orange- 20230305-06:00 
-http://akm-tct.douyucdn.cn/lived/4549169rZnGC6aia.flv?uuid=
+http://hw-tct.douyucdn.cn/lived/4444444444444444.flv?uuid=
+#EXTINF:-1,  group-title="Dramas", 豆腐芭比- Not open 
+http://hw-tct.douyucdn.cn/lived/4444444444444444.flv?uuid=
+#EXTINF:-1,  group-title="Dramas", 丶丶丶九月丶丶丶- 20230305-12:38 
+http://hw-tct.douyucdn.cn/lived/10338873rntHb9pA.flv?uuid=
+#EXTINF:-1,  group-title="Dramas-M", 疯狂尛瀦瀦- 20230305-12:38 
+http://hw-tct.douyucdn.cn/lived/4290711rTTBqCnSS.flv?uuid=
+#EXTINF:-1,  group-title="Dramas-M", 牛奶味的梦猪猪- 20230305-12:38 
+http://hw-tct.douyucdn.cn/lived/5261342r8mtKOa0S.flv?uuid=
+#EXTINF:-1,  group-title="Dramas-M", 大雾放映厅- 20230305-12:38 
+http://hw-tct.douyucdn.cn/lived/5061550rlbpwm0mK.flv?uuid=
+#EXTINF:-1,  group-title="Dramas-M", 疯狂小潴潴- 20230305-12:38 
+http://hw-tct.douyucdn.cn/lived/5522351rfDRipYot.flv?uuid=
+#EXTINF:-1,  group-title="Dramas-M", 宝姐x- 20230305-12:38 
+http://hw-tct.douyucdn.cn/lived/6581531rZaUNqb6Q.flv?uuid=
+#EXTINF:-1,  group-title="Dramas-M", 飘洋过海来- 20230305-12:38 
+http://hw-tct.douyucdn.cn/lived/9548850rw13p7DVb.flv?uuid=
+#EXTINF:-1,  group-title="Dramas-M", 橙記Orange- 20230305-12:38 
+http://hw-tct.douyucdn.cn/lived/4549169rZnGC6aia.flv?uuid=
 #EXTINF:-1,  group-title="Dramas-M", 741Happy- Not open 
-http://akm-tct.douyucdn.cn/lived/4444444444444444.flv?uuid=
-#EXTINF:-1,  group-title="Dramas-M", 落尘Old- 20230305-06:00 
-http://akm-tct.douyucdn.cn/lived/7570958rv8J2DIUf.flv?uuid=
-#EXTINF:-1,  group-title="综艺", 昆特牌之大哥食正野- 20230305-06:00 
-http://akm-tct.douyucdn.cn/lived/7919720raqS24617.flv?uuid=
-#EXTINF:-1,  group-title="Movies", Yummy- 20230305-06:00 
-https://al.flv.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.flv?wsSecret=7170323b78744b3b0eb55b881990cbf5&wsTime=6405f21c&u=0&seqid=16780248604264296&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&txyp=o%3Awzeic3%3B&fs=bgct&t=103
-#EXTINF:-1,  group-title="Dramas", 我叫山鸡哥- 20230305-06:00 
-https://hw.flv.huya.com/huyalive/1199561277686-1199561277686-5434860644379656192-2399122678828-10057-A-0-1.flv?wsSecret=0ad06788e919ea0bca82172322995d46&wsTime=6405f21c&u=0&seqid=16780248610903154&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&txyp=o%3Anc4%3B&fs=bgct&t=103
-#EXTINF:-1,  group-title="Dramas-M", TVB动作大片- 20230305-06:00 
-https://hs.flv.huya.com/src/1199563452337-1199563452337-5444200699304869888-2399127028130-10057-A-0-1.flv?wsSecret=ae2ea565649b9f9f9c56b01e58d61428&wsTime=6405f21d&u=0&seqid=16780248618040208&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&txyp=o%3Aw2%3B&fs=bgct&t=103
-#EXTINF:-1,  group-title="Dramas-M", 我才是打工人- 20230305-06:00 
-https://hs.flv.huya.com/src/1199561244004-1199561244004-5434715981291192320-2399122611464-10057-A-0-1.flv?wsSecret=171ea7172c9c8654a5c3fadbeb676214&wsTime=6405f21e&u=0&seqid=16780248625406158&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
-#EXTINF:-1,  group-title="Dramas-M", 鯎爺- 20230305-06:00 
-https://al.flv.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1.flv?wsSecret=36f4dba5cc3e267e0f0bd6ed52dc8a29&wsTime=6405f21f&u=0&seqid=16780248631809500&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&txyp=o%3Acp1%3B&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,&t=103
-#EXTINF:-1,  group-title="Movies-M", 浮生没有若梦- 20230305-06:00 
-https://hw.flv.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.flv?wsSecret=61603a613b57c59bbc98c107649ed2e5&wsTime=6405f21f&u=0&seqid=16780248642999156&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
-#EXTINF:-1,  group-title="Movies-M", 周星星- 20230305-06:00 
-https://al.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv?wsSecret=c71a53b62d36a54d5b67222aee86aa8a&wsTime=6405f205&u=0&seqid=16780248647348762&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&txyp=o%3Aqzeic1%3B&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,&t=103
-#EXTINF:-1,  group-title="Movies-M", 7喜先生- 20230305-06:00 
-https://al.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.flv?wsSecret=70c3b2fa429b42000b361717d06680f6&wsTime=6405f213&u=0&seqid=16780248651577072&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&txyp=o%3Awx91%3B&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,&t=103
-#EXTINF:-1,  group-title="Movies-M", 偷心大盗ヽ龍宝- 20230305-06:00 
-https://al.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.flv?wsSecret=8d84e802760e381ac2e76bf7203b17ae&wsTime=6405f221&u=0&seqid=16780248655361398&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,&t=103
-#EXTINF:-1,  group-title="Movies-M", 四大裁子之首- 20230305-06:00 
-https://hs.flv.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.flv?wsSecret=40b17ee335b152ea83eb9cd426bac20c&wsTime=6405f218&u=0&seqid=16780248659136374&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
+http://hw-tct.douyucdn.cn/lived/4444444444444444.flv?uuid=
+#EXTINF:-1,  group-title="Dramas-M", 落尘Old- Not open 
+http://hw-tct.douyucdn.cn/lived/4444444444444444.flv?uuid=
+#EXTINF:-1,  group-title="综艺", 昆特牌之大哥食正野- 20230305-12:38 
+http://hw-tct.douyucdn.cn/lived/7919720r2WQ3Ur9R.flv?uuid=
+#EXTINF:-1,  group-title="Movies", Yummy- 20230305-12:38 
+https://al.flv.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.flv?wsSecret=96e28fcbfe82fc27244cf2758ebd9c99&wsTime=64064f99&u=0&seqid=16780487935222296&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&txyp=o%3Ayzeic1%3B&fs=bgct&t=103
+#EXTINF:-1,  group-title="Dramas", 我叫山鸡哥- 20230305-12:38 
+https://hw.flv.huya.com/huyalive/1199561277686-1199561277686-5434860644379656192-2399122678828-10057-A-0-1.flv?wsSecret=e7065b3f1d2b4c402e00cdf03ca7c0ec&wsTime=64064f9a&u=0&seqid=16780487945189374&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&txyp=o%3Anc4%3B&fs=bgct&t=103
+#EXTINF:-1,  group-title="Dramas-M", TVB动作大片- 20230305-12:38 
+https://hs.flv.huya.com/src/1199563452337-1199563452337-5444200699304869888-2399127028130-10057-A-0-1.flv?wsSecret=3b1ffd7ee91af83f02d86ee92e8780c0&wsTime=64064f9b&u=0&seqid=16780487953007188&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&txyp=o%3Aw2%3B&fs=bgct&t=103
+#EXTINF:-1,  group-title="Dramas-M", 我才是打工人- 20230305-12:38 
+https://hs.flv.huya.com/src/1199561244004-1199561244004-5434715981291192320-2399122611464-10057-A-0-1.flv?wsSecret=e01d7d16fd76f611f5e67c178dce3898&wsTime=64064f9b&u=0&seqid=16780487961090066&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
+#EXTINF:-1,  group-title="Dramas-M", 鯎爺- 20230305-12:38 
+https://al.flv.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1.flv?wsSecret=cbf5b4346dbbc1135215ba16569ef718&wsTime=64064f92&u=0&seqid=16780487965897980&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&txyp=o%3Acp1%3B&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,&t=103
+#EXTINF:-1,  group-title="Movies-M", 浮生没有若梦- 20230305-12:38 
+https://hw.flv.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.flv?wsSecret=c58959c27fd11c6b820d8ab799266459&wsTime=64064f9d&u=0&seqid=16780487972495536&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
+#EXTINF:-1,  group-title="Movies-M", 周星星- 20230305-12:38 
+https://al.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv?wsSecret=1497a545ed283d4d7d3bb279823c6b3e&wsTime=64064f84&u=0&seqid=16780487977487080&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&txyp=o%3Aqzeic1%3B&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,&t=103
+#EXTINF:-1,  group-title="Movies-M", 7喜先生- 20230305-12:38 
+https://al.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.flv?wsSecret=c831aaf133a9f35fdbed293501e33934&wsTime=64064f93&u=0&seqid=16780487981284898&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&txyp=o%3Awx91%3B&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,&t=103
+#EXTINF:-1,  group-title="Movies-M", 偷心大盗ヽ龍宝- 20230305-12:38 
+https://al.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.flv?wsSecret=7f58c7d3bf370974d4ab25ea565f09c6&wsTime=64064f9e&u=0&seqid=16780487986931014&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,&t=103
+#EXTINF:-1,  group-title="Movies-M", 四大裁子之首- 20230305-12:38 
+https://hs.flv.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.flv?wsSecret=9bc73eaabefa4ef3259379c8699040e0&wsTime=64064f9f&u=0&seqid=16780487998371368&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="United States",NBC 8 Portland OR (KGW) (1080p)
 https://livevideo01.kgw.com/hls/live/2015506/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="KATUDT1.us" tvg-country="US-OR" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="United States",ABC Portland OR (KATU-DT1) (720p)
