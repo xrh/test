@@ -15,7 +15,7 @@ permissions:
 jobs:
   build:
 
-    runs-on: [ sefl-hosted]
+    runs-on: ubuntu-latest
 
     steps:
     
