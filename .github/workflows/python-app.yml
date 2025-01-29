@@ -24,7 +24,7 @@ jobs:
         python -m pip install --upgrade pip
         pwd
         ls
-        python -c "import os; import json; abc = os.environ.get('gha_secrect'); myjson = json.loads(abc)"
+        python -c "import os; import json; abc = os.environ.get('gha_secrect'); myjson = json.loads(abc); myuid = myjson['uid']"
 
       env:
         gha_secrect: ${{secrets.GHA}}
