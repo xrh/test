@@ -24,7 +24,7 @@ jobs:
         python -m pip install --upgrade pip
         pwd
         ls
-        python -c "import os; dir_list = os.listdir('/home/runner/work/test/test'); print(dir_list)"
+        python -c "import os; dir_list = os.listdir('/home/runner/work'); print(dir_list)"
       env:
         gha_secrect: ${{secrets.GHA}}
 
