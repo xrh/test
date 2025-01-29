@@ -18,11 +18,7 @@ jobs:
     runs-on: [ sefl-hosted]
 
     steps:
-    - uses: actions/checkout@v4
-    - name: Verify Python & Databricks CLI version
-      run: |
-      python --version
-      
+    
     - name: My test
       run: |
         python -m pip install --upgrade pip
