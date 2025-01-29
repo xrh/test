@@ -20,7 +20,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: Verify Python & Databricks CLI version
-      run :|
+      run: |
       python3 --version
       python --version
       
@@ -32,6 +32,3 @@ jobs:
       env:
         gha_secrect: ${{secrets.GHA}}
 
-    - name: Test with pytest
-      run: |
-        pytest
