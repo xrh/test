@@ -24,7 +24,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install flake8 pytest
         pwd
-        python /home/runner/work/xrh/text/GHA.py
+        python ../GHA.py
       env:
         gha_secrect: ${{secrets.GHA}}
 
