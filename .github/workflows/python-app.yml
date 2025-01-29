@@ -22,10 +22,8 @@ jobs:
     - name: My test
       run: |
         python -m pip install --upgrade pip
-        pip install flake8 pytest
         pwd
-        locate GHA.py
-        python ../GHA.py
+        python ..\GHA.py
       env:
         gha_secrect: ${{secrets.GHA}}
 
