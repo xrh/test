@@ -23,7 +23,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pwd
-        python /home/runner/work/test/GHA.py
+        python /home/runner/work/xrh/test/GHA.py
       env:
         gha_secrect: ${{secrets.GHA}}
 
