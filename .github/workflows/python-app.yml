@@ -24,7 +24,7 @@ jobs:
         python -m pip install --upgrade pip
         pwd
         ls
-        python ./GHA.py
+        python -c "import os; print(os.getcwd())"
       env:
         gha_secrect: ${{secrets.GHA}}
 
