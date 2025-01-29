@@ -24,7 +24,7 @@ jobs:
         python -m pip install --upgrade pip
         pwd
         ls
-        python /home/runner/work/xrh/test/GHA.py
+        python ./GHA.py
       env:
         gha_secrect: ${{secrets.GHA}}
 
