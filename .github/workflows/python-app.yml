@@ -21,7 +21,6 @@ jobs:
     - uses: actions/checkout@v4
     - name: Verify Python & Databricks CLI version
       run: |
-      python3 --version
       python --version
       
     - name: My test
